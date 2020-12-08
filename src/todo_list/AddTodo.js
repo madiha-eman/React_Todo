@@ -18,10 +18,11 @@ function AddTodo() {
        }
         return (
         <div>
-            <form onSubmit={}>
+            <form onSubmit={handleSubmit}>
                  <input type='text' onChange={handleChange}></input>
                 <button type='submit'>Add</button>
             </form>
+            <Todos todolist = {todos}/>
         </div>
     )
 }
