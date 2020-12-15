@@ -1,0 +1,13 @@
+body{
+    margin: 0 auto;
+}
+.link1{
+    background-color: rgb(27, 216, 153);
+}
+.link, li{
+    text-decoration: none;
+    display: inline-block;
+    padding: 20px;
+    font-size: 20px;
+    color: black;
+}

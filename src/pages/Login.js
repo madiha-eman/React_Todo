@@ -1,13 +1,13 @@
 import React from 'react'
 
-function AboutUs() {
+function Login() {
     return (
         <div>
             <h1>
-            Welcome to About Us Page
+            Welcome to login
             </h1>
         </div>
     )
 }
 
-export default AboutUs
+export default Login

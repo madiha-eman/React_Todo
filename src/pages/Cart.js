@@ -1,13 +1,13 @@
 import React from 'react'
 
-function Contact() {
+function Cart() {
     return (
         <div>
             <h1>
-            Welcome to Contact Us Page
+            Welcome to cart
             </h1>
         </div>
     )
 }
 
-export default Contact
+export default Cart
