@@ -17,9 +17,9 @@ const Navbar = () => {
 
        
             <Router>
-              <nav  className='link1'>
+              <nav  className='nav'>
         <ul>
-          <li >
+          <li>
         <Link className='link' to='/'>Home</Link>
         </li>
         <li>

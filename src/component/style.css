@@ -1,13 +1,30 @@
 body{
     margin: 0 auto;
 }
-.link1{
-    background-color: rgb(27, 216, 153);
+.nav{
+    background-color: #bf0603;
+    margin: 0 auto;
 }
-.link, li{
+ul{
+    display: inline-block;
+    /* justify-content: center;
+    align-items: center; */
+}
+ul>li{
     text-decoration: none;
     display: inline-block;
-    padding: 20px;
+    padding: 8px;
+    margin-left: 70px;
     font-size: 20px;
-    color: black;
+    
+    
+}
+.link{
+    text-decoration: none;
+    color: whitesmoke;
+    align-items: center;
+
+  
+   
+
 }
