@@ -1,13 +1,15 @@
 import React from 'react'
+import Authfrom from '../component/Authfrom'
 
-function Login() {
+const Login = () => {
     return (
         <div>
-            <h1>
-            Welcome to login
-            </h1>
+            <Authfrom  />
         </div>
     )
 }
 
 export default Login
+
+
+
